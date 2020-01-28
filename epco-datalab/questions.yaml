@@ -1,0 +1,6 @@
+questions:
+  - variable: testvar
+    type: string
+    default: default string
+    required: true
+    description: "some test var"
