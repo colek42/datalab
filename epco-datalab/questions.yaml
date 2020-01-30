@@ -1,5 +1,5 @@
 questions:
-  - variable: testvar
+  - variable: namespace
     type: string
     default: default string
     required: true
