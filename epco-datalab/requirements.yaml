@@ -5,3 +5,6 @@ dependencies:
 - name: airflow
   version: 4.1.1
   repository: https://charts.bitnami.com/bitnami
+- name: sparkoperator
+  version: 0.6.2
+  repository: http://storage.googleapis.com/kubernetes-charts-incubator
